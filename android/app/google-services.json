@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185267669548",
+    "project_id": "eval2-3ea6f",
+    "storage_bucket": "eval2-3ea6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185267669548:android:f5efff827a1b4d9f4ddf89",
+        "android_client_info": {
+          "package_name": "com.katiaclimaco.evals2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf0Cnk8ZKE2-2X1MFWQARQLgd1KYdjODo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
